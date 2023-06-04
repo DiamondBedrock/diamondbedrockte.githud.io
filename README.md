@@ -1,1 +1,1 @@
-# diamondbedrockte.githud.io
+# https://github.com/DiamondBedrock/diamondbedrock.githud.io.git
